@@ -49,7 +49,7 @@ These observations apply to the tested workstation and workloads. They do not im
 Use an Apple Silicon Mac, Git, Rust/Cargo, and Apple command-line developer tools.
 Source use is qualified only for macOS ARM64 (`aarch64-apple-darwin`). Rust/Cargo 1.98.0 was tested; a lower minimum version has not been established. Python 3 is needed only for fixture verification and a test. It is not needed to run an analysis. See the manual for installation steps.
 
-The repository requires authorized GitHub access while it is private. Clone into a new folder. Run these commands in Terminal, one line at a time. Start outside an existing folder named `zrust`.
+Clone into a new folder. Run these commands in Terminal, one line at a time. Start outside an existing folder named `zrust`.
 
 <!-- command: readme-install -->
 ```sh
