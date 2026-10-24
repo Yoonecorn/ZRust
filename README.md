@@ -3,6 +3,7 @@
 Rust analysis of pooled CRISPR screens for treatment sensitivity and resistance.
 
 **ZRust 0.1.0 is source-only software for Apple Silicon macOS.**
+
 The crate, executable, and command are all named `zrust`. Build the executable locally. No binary distribution or tagged release is provided.
 
 ## Documentation
