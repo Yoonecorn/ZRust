@@ -1,0 +1,12 @@
+[package]
+name = "zrust"
+version = "0.1.0"
+description = "Rust reimplementation of DrugZ for high-performance CRISPR chemogenetic screen analysis"
+repository = "https://github.com/Yoonecorn/ZRust"
+edition = "2024"
+publish = false
+license = "MIT"
+
+[dependencies]
+libm = { version = "=0.2.16", default-features = false }
+tempfile = { version = "=3.27.0", default-features = false }
